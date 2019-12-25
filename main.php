@@ -46,7 +46,7 @@
                 </tr>
                 <tr>
                   <td>Tempat tanggal Lahir</td>
-                  <td>: Jakarta, 28 Maret 1999</td>    
+                  <td>: Jakarta, 28 ********** 19**</td>    
                 </tr>
                 <tr>
                   <td>Jenis Kelamin</td>
@@ -54,7 +54,7 @@
                 </tr>
                 <tr>
                   <td>Umur</td>
-                  <td>: 20</td>   
+                  <td>: **</td>   
                 </tr>
                 <tr>
                     <td>Agama</td>
@@ -66,11 +66,11 @@
                 </tr>
                 <tr>
                     <td>Alamat</td>
-                    <td>: Kp. Bend***** RT/RW ***/*** No.** Ragunan, Jakarta Selatan</td>
+                    <td>: Kp. B******** RT/RW ***/*** No.** *******, ******* *******</td>
                 </tr>
                 <tr>
                     <td>No. HP</td>
-                    <td>: 08**-46**-86**</td>
+                    <td>: 0***-****-****</td>
                 </tr>
                 <tr>
                     <td>Email</td>
