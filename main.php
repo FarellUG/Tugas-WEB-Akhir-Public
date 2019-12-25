@@ -46,7 +46,7 @@
                 </tr>
                 <tr>
                   <td>Tempat tanggal Lahir</td>
-                  <td>: Jakarta, 28 ********** 19**</td>    
+                  <td>: Jakarta, 28 Maret 1999</td>    
                 </tr>
                 <tr>
                   <td>Jenis Kelamin</td>
@@ -54,7 +54,7 @@
                 </tr>
                 <tr>
                   <td>Umur</td>
-                  <td>: **</td>   
+                  <td>: 20</td>   
                 </tr>
                 <tr>
                     <td>Agama</td>
@@ -66,7 +66,7 @@
                 </tr>
                 <tr>
                     <td>Alamat</td>
-                    <td>: Kp. B******** RT/RW ***/*** No.** *******, ******* *******</td>
+                    <td>: Kp. B******** RT/RW ***/*** No.** *******, Jakarta Selatan</td>
                 </tr>
                 <tr>
                     <td>No. HP</td>
